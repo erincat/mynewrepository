@@ -1,1 +1,2 @@
 Adding one line of text.
+Adding another line.
