@@ -4,4 +4,3 @@ Hello World!
 Line for branch1.Yo
 Line from branch2.
 Line2 from branch2.
-Line2 from branch1.
