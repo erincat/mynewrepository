@@ -1,3 +1,4 @@
 Adding one line of text.
 Adding another line.
 Hello World!
+Fourth line of text from branch1
